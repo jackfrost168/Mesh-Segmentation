@@ -1,4 +1,4 @@
-A feature sensitive and robust mesh segmentation algorithm
+A Feature Sensitive and Robust Mesh Segmentation Algorithm
 ==========================================================
 Abstract
 --------
